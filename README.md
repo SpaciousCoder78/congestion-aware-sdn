@@ -1,5 +1,14 @@
 # Adaptive Congestion-Aware Routing in Software-Defined Networks Using Reinforcement Learning
 
+
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
+
+
 ## Abstract
 
 Dynamic network congestion in Software-Defined
@@ -33,6 +42,10 @@ generated training scenarios.
 ## Project Overview
 
 This project is a simulation of a congestion aware adaptive routing reinforcement learning agent that adapts to the congestion in the network and re-routes the traffic to reach the destination node. 
+
+## Kaggle Version
+
+This notebook is also available on <a href="https://www.kaggle.com/code/spaciouscoder78/simulation-of-congestion-aware-sdn-via-q-learning" >Kaggle </a> as an interactive notebook that you can run remotely
 
 ### Requirements
 
